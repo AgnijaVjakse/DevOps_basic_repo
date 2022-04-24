@@ -1,2 +1,2 @@
-# DevOps_basic_repo
-DevOps_pamati iesācējiem
+# DevOps repozitorijs
+Agnija Vjakse DevOps repozitorijs pamati iesācējiem
